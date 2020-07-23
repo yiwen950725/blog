@@ -1,5 +1,5 @@
 ---
-title: CST Experience and Tips
+title: Google Maps API & related
 tags: ["Google Maps API", "JavaScript"] 
 categories: ["JavaScript", "Coding"]
 ---
@@ -65,3 +65,7 @@ categories: ["JavaScript", "Coding"]
 
 ---
 Link to the project: [click me](https://qds20team16.web.app/).
+
+---
+v.1 2020.1
+v.2 2020.7
