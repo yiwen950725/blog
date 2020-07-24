@@ -1,5 +1,5 @@
 ---
-title: CST Experience and Tips
+title: CST Experience Term 1
 tags: ["Education", "BCIT", "校园生活"] 
 categories: ["Life @BCIT"]
 ---
