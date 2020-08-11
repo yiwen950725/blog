@@ -1,7 +1,7 @@
 ---
 title: Google Maps API & related
 tags: ["Google Maps API", "JavaScript"] 
-categories: ["JavaScript", "Coding"]
+categories: ["JavaScript", "Firebase"]
 ---
 
 # Wrote in Jan 2020 for BCIT Hackathon.
