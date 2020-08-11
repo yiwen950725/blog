@@ -13,7 +13,7 @@ categories: ["Life @BCIT"]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Each sets consists of 25 students, and we got to work closely on most of the courses. Teamwork is an important part of BCIT learning. So, one of the most important things is to make new friends among your classmates.</p>
+<p>Each set consists of 25 students, and we got to work closely on most of the courses. Teamwork is an important part of BCIT learning. So, one of the most important things is to make new friends among your classmates.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
