@@ -58,10 +58,12 @@ categories: ["Life @BCIT"]
 
 <!-- wp:paragraph -->
 <p>Before I started this program, a lot of colleagues and friends told me that there is no social life for students there. However, we managed to have birthday parties and after-exam parties.</p>
-<!-- /wp:paragraph -->
+<!-- /wp:paragraph -->  
  
 --- 
 v.1 2020.1  
 
-v.2 2020.7
+v.2 2020.7  
+
+v.3 2020.8  
 </font>

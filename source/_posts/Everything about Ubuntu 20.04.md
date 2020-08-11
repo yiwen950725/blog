@@ -127,5 +127,8 @@ It is a tool for Man in the Middle Attacks. Used for APR poisoning.
 
 `sudo apt-get update -y`   
 
-`sudo apt-get install -y ettercap-graphical`  
+`sudo apt-get install -y ettercap-graphical`   
+
+--- 
+v.1 2020.8  
 

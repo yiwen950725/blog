@@ -67,5 +67,8 @@ categories: ["JavaScript", "Firebase"]
 Link to the project: [click me](https://qds20team16.web.app/).
 
 ---
-v.1 2020.1
-v.2 2020.7
+v.1 2020.1  
+
+v.2 2020.7  
+
+v.3 2020.8

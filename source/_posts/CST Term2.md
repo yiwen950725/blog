@@ -27,6 +27,10 @@ For 2 courses in May, we had to take it with the Term 1 students. You will be ra
 
 <p><strong>COMP 2800</strong>: You will get an instructor for this course. It was a nightmare for me. My instructor did not teach me anything in this project. In fact, this course was put in a terrible way. The Term 2 students had to do most of the tasks. Besides that, there is a ton of paperwork to be completed everyday. I worked 15 hours per day to make ends meet. My instructor gave me a bad mark because she thought I did not do anything for my group, given the fact that she has been informed multiple times there were people who did not contribute. The instructors always say it is also a difficult time for them as well, but their actions convinced me that they have always been like this with or without COVID-19.</P>
 
-## PS: If you have a Co-op job, you don't have to take the 2 summer courses. I would suggest doing so. But, if you are from January intake, you should prepare yourself. 
+## PS: If you have a Co-op job, you don't have to take the 2 summer courses. I would suggest doing so. But, if you are from January intake, you should prepare yourself.    
+
+--- 
+
+v.1 2020.8  
 
 </font>
