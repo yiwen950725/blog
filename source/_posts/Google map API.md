@@ -25,7 +25,7 @@ categories: ["JavaScript", "Firebase"]
 <p><strong>Geocoding</strong></p>
 <!-- /wp:paragraph -->
 
-![Snippet of code getting coordinates](img/image-1.png)
+![Snippet of code getting coordinates](https://i.imgur.com/fUhh83N.png)
 
 <!-- wp:paragraph -->
 <p>results[0].geometry.location this is a string returning (xxx.xxxx, xxx,xxxx). If you want the floating numbers, you need to parse it into two substrings and parseFloat the two substrings. </p>
