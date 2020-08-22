@@ -25,7 +25,7 @@ categories: ["JavaScript", "Firebase"]
 <p><strong>Geocoding</strong></p>
 <!-- /wp:paragraph -->
 
-![Snippet of code getting coordinates](https://github.com/yiwen950725/pictures/blob/master/image-1.png)
+![Snippet of code getting coordinates](img/image-1.png)
 
 <!-- wp:paragraph -->
 <p>results[0].geometry.location this is a string returning (xxx.xxxx, xxx,xxxx). If you want the floating numbers, you need to parse it into two substrings and parseFloat the two substrings. </p>
@@ -51,7 +51,7 @@ categories: ["JavaScript", "Firebase"]
 <p>This uses bounds. </p>
 <!-- /wp:paragraph -->
 
-![Random squares on a map](https://github.com/yiwen950725/pictures/blob/master/image-2.png)
+![Random squares on a map](img/image-2.png)
 
 <!-- wp:paragraph -->
 <p><strong>Customize markers</strong></p>
@@ -61,7 +61,7 @@ categories: ["JavaScript", "Firebase"]
 <p>You can add attributes to the marker icons. You can also add customized icons.</p>
 <!-- /wp:paragraph -->
 
-![Icon attributes](https://github.com/yiwen950725/pictures/blob/master/image-3.png)
+![Icon attributes](img/image-3.png)
 
 ---
 Link to the project: [click me](https://qds20team16.web.app/).
