@@ -51,7 +51,7 @@ categories: ["JavaScript", "Firebase"]
 <p>This uses bounds. </p>
 <!-- /wp:paragraph -->
 
-![Random squares on a map](img/image-2.png)
+![Random squares on a map](https://i.imgur.com/WdTJHSw.png)
 
 <!-- wp:paragraph -->
 <p><strong>Customize markers</strong></p>
