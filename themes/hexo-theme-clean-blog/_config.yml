@@ -20,10 +20,10 @@ default_post_title: Untitled
 # Comments. Choose one by filling up the information
 comments:
   # Disqus comments
-  disqus_shortname: tiffanytest
+  disqus_shortname:
   # Facebook comments
   facebook:
-    appid: 
+    appid: tiffany-gu
     comment_count: 5
     comment_colorscheme: light
 
