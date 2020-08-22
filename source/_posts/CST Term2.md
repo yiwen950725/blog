@@ -1,5 +1,6 @@
 ---
 title: CST Experience Term 2
+author: Tiffany Gu
 tags: ["Education", "BCIT", "校园生活"] 
 categories: ["Life @BCIT"]
 ---
@@ -32,5 +33,6 @@ For 2 courses in May, we had to take it with the Term 1 students. You will be ra
 --- 
 
 v.1 2020.8  
+v.2 2020.8 -- added author name   
 
 </font>

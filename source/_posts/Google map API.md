@@ -1,5 +1,6 @@
 ---
 title: Google Maps API & related
+author: Tiffany Gu
 tags: ["Google Maps API", "JavaScript"] 
 categories: ["JavaScript", "Firebase"]
 ---
@@ -73,4 +74,4 @@ v.2 2020.7
 
 v.3 2020.8
 
-v.4 2020.8 --fixed the image links
+v.4 2020.8 --fixed the image links + author name

@@ -1,5 +1,6 @@
 ---
 title: Everything about Ubuntu 20.04
+author: Tiffany Gu
 tags: ["Education", "Linux"] 
 categories: ["Linux"]
 ---
@@ -131,4 +132,5 @@ It is a tool for Man in the Middle Attacks. Used for APR poisoning.
 
 --- 
 v.1 2020.8  
+v.2 2020.8 -- added author name
 
