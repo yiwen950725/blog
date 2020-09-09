@@ -122,6 +122,21 @@ I use it as Java IDE. Install by typing the following:
 
 `sudo snap install --classic eclipse`
 
+<ins>__CLion__</ins>   
+Get the license by signing up with your school email address and associate your account with your school email.  
+`sudo tar xzf CLion-20XX.X.tar.gz -C /opt`
+
+Then:  
+`/opt/clion-20XX.X/bin/clion.sh`
+
+Find your g++ compiler:  
+`which g++`
+
+Locate and change the location of your compiler in Settings/Preferences.
+You are good to go.
+
+
+
 ## Hacking
 <ins>__Ettercap__</ins>  
 It is a tool for Man in the Middle Attacks. Used for APR poisoning.
@@ -153,5 +168,5 @@ Then:
 v.1 2020.8  
 v.2 2020.8 -- added author name
 
-v.3 2020.9 -- added compilers
+v.3 2020.9 -- added compilers and JetBrains
 
