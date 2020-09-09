@@ -129,7 +129,7 @@ Get the license by signing up with your school email address and associate your 
 Then:  
 `/opt/clion-20XX.X/bin/clion.sh`
 
-Find your g++ compiler:  
+Find your g++ compiler (if you haven't done so go to the bottom to install compiler first):  
 `which g++`
 
 Locate and change the location of your compiler in Settings/Preferences.
@@ -166,6 +166,7 @@ Then:
 
 --- 
 v.1 2020.8  
+
 v.2 2020.8 -- added author name
 
 v.3 2020.9 -- added compilers and JetBrains

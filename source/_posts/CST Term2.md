@@ -32,7 +32,10 @@ For 2 courses in May, we had to take it with the Term 1 students. You will be ra
 
 --- 
 
-v.1 2020.8  
-v.2 2020.8 -- added author name   
+v.1 2020.8 
+
+v.2 2020.8 -- added author name  
+
+v.3 2020.9 -- grammar fixes 
 
 </font>
