@@ -115,7 +115,7 @@ Now, install PyCharm by typing the following in the terminal:
 `sudo snap install [pycharm-professional|pycharm-community] --classic`
 
 
-<ins>__Eclipse__</ins>
+<ins>__Eclipse__</ins>  
 I use it as Java IDE. Install by typing the following:
 
 `sudo apt install default-jre`
@@ -130,7 +130,28 @@ It is a tool for Man in the Middle Attacks. Used for APR poisoning.
 
 `sudo apt-get install -y ettercap-graphical`   
 
+## Compilers
+<ins>__gcc__</ins>   
+
+`sudo apt update
+sudo apt install build-essential`
+
+`sudo apt-get install manpages-dev`
+
+Test by `gcc --version`
+
+Compile your program:
+`gcc hello.c -o hello`
+
+Then:
+`./hello`
+
+
+
+
 --- 
 v.1 2020.8  
 v.2 2020.8 -- added author name
+
+v.3 2020.9 -- added compilers
 
