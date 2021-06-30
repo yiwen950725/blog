@@ -22,7 +22,7 @@ categories: ["Life @BCIT"]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>For this term, we have 2 courses for our option, the data communications. The two courses were taught by our new option head, D'Arcy Smith. Some other courses we had were Business Law, 2 Industry Projects (yes 2 of them!!!!), Operating Systems, and Internet Sturctures (web dev). If you take Information Systems, you don't have BLAW, but there are 3 option courses. </p>
+<p>For this term, we had 2 courses for our option, the data communications. The two courses were taught by our new option head, D'Arcy Smith. Some other courses we had were Business Law, 2 Industry Projects (yes 2 of them!!!!), Operating Systems, and Internet Sturctures (web dev). If you take Information Systems, you don't have BLAW, but there are 3 option courses. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
