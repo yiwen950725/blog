@@ -5,7 +5,7 @@ tags: ["Education", "BCIT", "校园生活"]
 categories: ["Life @BCIT"]
 ---
   
-# This was written in June 2021. I got my diploma yesterday. Here are some tips for Term 4 (online).
+# This was written in June 2021. I got my diploma yesterday (2021-06-28). Here are some tips for Term 4 (online).
 <font size="3">
 
 
